@@ -3,6 +3,8 @@
 ## 🔗 Live Demo
 [View HTML Form Project 🚀](https://gursewak-codes.github.io/2_html_form/)
 
+## 🖼️ Preview
+![reference](output.png)
 
 ## 🚀 Features
 - Clean UI
